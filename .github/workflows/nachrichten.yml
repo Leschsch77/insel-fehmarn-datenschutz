@@ -1,0 +1,36 @@
+name: Nachrichten aktualisieren
+
+on:
+  schedule:
+    # 05:30 UTC. GitHub verzoegert geplante Laeufe im Gratis-Kontingent
+    # regelmaessig um ein bis zwei Stunden — das ist hier egal, die App
+    # laedt die Datei bei jedem Start.
+    - cron: "30 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sammeln:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Selbsttest
+        run: python3 tools/sammle_nachrichten.py --selftest
+
+      - name: Nachrichten holen
+        run: python3 tools/sammle_nachrichten.py
+
+      - name: Aenderung veroeffentlichen
+        run: |
+          if [ -z "$(git status --porcelain nachrichten.json)" ]; then
+            echo "Keine neuen Meldungen, nichts zu tun."
+            exit 0
+          fi
+          git config user.name "Insel-Fehmarn Automatik"
+          git config user.email "actions@github.com"
+          git add nachrichten.json
+          git commit -m "Nachrichten aktualisiert: $(python3 -c "import json;print(json.load(open('nachrichten.json'))['anzahl'])") Eintraege"
+          git push
