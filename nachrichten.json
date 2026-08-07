@@ -1,7 +1,35 @@
 {
- "stand": "2026-08-06",
- "anzahl": 14,
+ "stand": "2026-08-07",
+ "anzahl": 18,
  "eintraege": [
+  {
+   "titel": "Trecker rammt Baum: Vollsperrung nach schwerem Zusammenstoß",
+   "link": "https://www.fehmarn24.de/fehmarn/trecker-prallt-auf-fehmarn-gegen-baum-strasse-gesperrt-94432128.html",
+   "datum": "2026-08-06",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
+  {
+   "titel": "Zwischen guter Gerste und schwachem Raps: So läuft die Ernte auf Fehmarn",
+   "link": "https://www.fehmarn24.de/fehmarn/getreideernte-auf-fehmarn-bauernchef-zieht-erste-bilanz-94432076.html",
+   "datum": "2026-08-06",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
+  {
+   "titel": "Polizei befreit Hunde aus überhitztem Auto",
+   "link": "https://www.fehmarn24.de/ostholstein/polizei-befreit-hunde-aus-ueberhitztem-auto-94431986.html",
+   "datum": "2026-08-06",
+   "quelle": "fehmarn24",
+   "rubrik": "ostholstein"
+  },
+  {
+   "titel": "Küstenrad- und Wanderweg in Sütel: Grünes Licht mit teuren Auflagen",
+   "link": "https://www.fehmarn24.de/heiligenhafen/kuestenrad-und-wanderweg-in-suetel-gruenes-licht-mit-teuren-auflagen-94428129.html",
+   "datum": "2026-08-04",
+   "quelle": "fehmarn24",
+   "rubrik": "ostholstein"
+  },
   {
    "titel": "1489. Badetag auf Fehmarn: Wigald Boning begeistert mit humorvollem Vortrag",
    "link": "https://www.fehmarn24.de/fehmarn/wigald-boning-begeistert-im-burg-filmtheater-auf-fehmarn-94423781.html",
