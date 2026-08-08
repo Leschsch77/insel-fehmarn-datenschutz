@@ -1,7 +1,14 @@
 {
- "stand": "2026-08-07",
- "anzahl": 18,
+ "stand": "2026-08-08",
+ "anzahl": 20,
  "eintraege": [
+  {
+   "titel": "Riss in der Fahrbahn: LBV plant neue Markierung zur Entlastung",
+   "link": "https://www.fehmarn24.de/fehmarn/207-auf-fehmarn-abgesackt-staus-und-verkehrschaos-94433399.html",
+   "datum": "2026-08-07",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "Trecker rammt Baum: Vollsperrung nach schwerem Zusammenstoß",
    "link": "https://www.fehmarn24.de/fehmarn/trecker-prallt-auf-fehmarn-gegen-baum-strasse-gesperrt-94432128.html",
@@ -20,6 +27,13 @@
    "titel": "Polizei befreit Hunde aus überhitztem Auto",
    "link": "https://www.fehmarn24.de/ostholstein/polizei-befreit-hunde-aus-ueberhitztem-auto-94431986.html",
    "datum": "2026-08-06",
+   "quelle": "fehmarn24",
+   "rubrik": "ostholstein"
+  },
+  {
+   "titel": "Küstenrad- und Wanderweg in Sütel: Grünes Licht mit teuren Auflagen",
+   "link": "https://www.fehmarn24.de/ostholstein/kuestenrad-und-wanderweg-in-suetel-gruenes-licht-mit-teuren-auflagen-94428129.html",
+   "datum": "2026-08-04",
    "quelle": "fehmarn24",
    "rubrik": "ostholstein"
   },
