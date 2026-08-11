@@ -1,7 +1,21 @@
 {
- "stand": "2026-08-10",
- "anzahl": 20,
+ "stand": "2026-08-11",
+ "anzahl": 22,
  "eintraege": [
+  {
+   "titel": "Mehr Komfort im Kinosaal: Hans-Peter Jansen sucht Stuhlpaten",
+   "link": "https://www.fehmarn24.de/fehmarn/burg-filmtheater-fehmarn-bekommt-neue-stuehle-paten-gesucht-94436068.html",
+   "datum": "2026-08-10",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
+  {
+   "titel": "Teichstraße leidet unter Busverkehr",
+   "link": "https://www.fehmarn24.de/ostholstein/teichstrasse-leidet-unter-busverkehr-94437383.html",
+   "datum": "2026-08-10",
+   "quelle": "fehmarn24",
+   "rubrik": "ostholstein"
+  },
   {
    "titel": "Riss in der Fahrbahn: LBV plant neue Markierung zur Entlastung",
    "link": "https://www.fehmarn24.de/fehmarn/207-auf-fehmarn-abgesackt-staus-und-verkehrschaos-94433399.html",
