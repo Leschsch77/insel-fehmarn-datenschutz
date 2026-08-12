@@ -1,7 +1,21 @@
 {
- "stand": "2026-08-11",
- "anzahl": 22,
+ "stand": "2026-08-12",
+ "anzahl": 24,
  "eintraege": [
+  {
+   "titel": "Von Pixar bis Musikkomödie: Kostenloses Strandkino in Burgtiefe",
+   "link": "https://www.fehmarn24.de/fehmarn/open-air-kino-am-suedstrand-kostenlos-filme-am-meer-94437959.html",
+   "datum": "2026-08-11",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
+  {
+   "titel": "Mit Traktor und Bauwagen: Stammzellempfänger wirbt auf Fehmarn für Typisierungen",
+   "link": "https://www.fehmarn24.de/fehmarn/didi-on-tour-stammzellpionier-macht-station-auf-fehmarn-94437935.html",
+   "datum": "2026-08-11",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "Mehr Komfort im Kinosaal: Hans-Peter Jansen sucht Stuhlpaten",
    "link": "https://www.fehmarn24.de/fehmarn/burg-filmtheater-fehmarn-bekommt-neue-stuehle-paten-gesucht-94436068.html",
