@@ -1,7 +1,21 @@
 {
- "stand": "2026-08-14",
- "anzahl": 24,
+ "stand": "2026-08-15",
+ "anzahl": 26,
  "eintraege": [
+  {
+   "titel": "Einblicke in Werkstätten: Kunstschaffende öffnen ihre Türen auf Fehmarn",
+   "link": "https://www.fehmarn24.de/fehmarn/tag-des-offenen-ateliers-auf-fehmarn-kunst-hautnah-erleben-94444338.html",
+   "datum": "2026-08-14",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
+  {
+   "titel": "Umweltminister zu Gast auf Fehmarn: Reederei trotzt Tunnelplänen mit starken Zahlen",
+   "link": "https://www.fehmarn24.de/fehmarn/scandlines-auf-fehmarn-ministerbesuch-und-rekordzahlen-94443376.html",
+   "datum": "2026-08-14",
+   "quelle": "fehmarn24",
+   "rubrik": "tunnel"
+  },
   {
    "titel": "Von Pixar bis Musikkomödie: Kostenloses Strandkino in Burgtiefe",
    "link": "https://www.fehmarn24.de/fehmarn/open-air-kino-am-suedstrand-kostenlos-filme-am-meer-94437959.html",
