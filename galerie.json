@@ -1,0 +1,16 @@
+{
+  "stand": "2026-08-16",
+  "anzahl": 2,
+  "eintraege": [
+    {
+      "bild": "https://leschsch77.github.io/insel-fehmarn-datenschutz/fotos/leuchtturm-sonnenuntergang.jpg",
+      "titel": "Leuchtturm beim Sonnenuntergang",
+      "fotograf": "Dieter"
+    },
+    {
+      "bild": "https://leschsch77.github.io/insel-fehmarn-datenschutz/fotos/fehmarnsundbruecke-vom-wasser.jpg",
+      "titel": "Fehmarnsundbrücke vom Wasser aus",
+      "fotograf": "Dieter"
+    }
+  ]
+}
