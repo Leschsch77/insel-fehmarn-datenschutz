@@ -1,7 +1,14 @@
 {
- "stand": "2026-08-18",
- "anzahl": 28,
+ "stand": "2026-08-19",
+ "anzahl": 29,
  "eintraege": [
+  {
+   "titel": "100 Jahre im Dorfleben verankert",
+   "link": "https://www.fehmarn24.de/ostholstein/100-jahre-im-dorfleben-verankert-94449540.html",
+   "datum": "2026-08-18",
+   "quelle": "fehmarn24",
+   "rubrik": "ostholstein"
+  },
   {
    "titel": "Elbquerung: Symbolischer Tunneldurchschlag der Suedlink-Trasse",
    "link": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/elbquerung-symbolischer-tunneldurchschlag-der-suedlink-trasse,shmag-12406.html",
