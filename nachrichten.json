@@ -1,7 +1,21 @@
 {
- "stand": "2026-08-24",
- "anzahl": 33,
+ "stand": "2026-08-25",
+ "anzahl": 35,
  "eintraege": [
+  {
+   "titel": "Schutz und Erlebnis im Einklang: NABU blickt auf 50 Jahre Wallnau zurück",
+   "link": "https://www.fehmarn24.de/fehmarn/50-jahre-nabu-wallnau-jubilaeum-auf-fehmarn-gefeiert-94456734.html",
+   "datum": "2026-08-24",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
+  {
+   "titel": "Neue Folgen von \"Nord bei Nordwest\" - Fehmarn ist wieder Schwanitz",
+   "link": "https://www.ndr.de/nachrichten/schleswig-holstein/neue-folgen-von-nord-bei-nordwest-fehmarn-ist-wieder-schwanitz,nordbeinordwest-106.html",
+   "datum": "2026-08-24",
+   "quelle": "NDR Schleswig-Holstein",
+   "rubrik": "insel"
+  },
   {
    "titel": "Kostenlose Erfrischung auf Knopfdruck: Neuer Trinkbrunnen vor der Tourist-Info",
    "link": "https://www.fehmarn24.de/fehmarn/burgtiefe-auf-fehmarn-neuer-trinkbrunnen-am-suedstrand-94454524.html",
