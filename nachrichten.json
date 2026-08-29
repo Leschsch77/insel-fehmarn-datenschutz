@@ -1,7 +1,14 @@
 {
- "stand": "2026-08-28",
- "anzahl": 41,
+ "stand": "2026-08-29",
+ "anzahl": 42,
  "eintraege": [
+  {
+   "titel": "Katastrophenschutzübung läuft auf Fehmarn",
+   "link": "https://www.ndr.de/nachrichten/schleswig-holstein/luebeck_herzogtum-lauenburg_ostholstein/katastrophenschutzuebung-laeuft-auf-fehmarn,regionluebecknews-2920.html",
+   "datum": "2026-08-29",
+   "quelle": "NDR Schleswig-Holstein",
+   "rubrik": "insel"
+  },
   {
    "titel": "Vom Schutz der Ostsee bis zur Energiewende: Umweltrat stellt neue Projekte vor",
    "link": "https://www.fehmarn24.de/fehmarn/tauchcamp-und-ostseeschutz-umweltrat-fehmarn-stellt-plaene-vor-94462617.html",
