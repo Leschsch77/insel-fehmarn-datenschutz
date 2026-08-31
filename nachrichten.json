@@ -1,7 +1,14 @@
 {
- "stand": "2026-08-30",
- "anzahl": 42,
+ "stand": "2026-08-31",
+ "anzahl": 43,
  "eintraege": [
+  {
+   "titel": "Fiktiver Deichbruch an der Westküste: 300 Einsatzkräfte proben Ernstfall auf Fehmarn",
+   "link": "https://www.fehmarn24.de/fehmarn/katastrophenschutz-auf-fehmarn-300-kraefte-proben-ernstfall-94467207.html",
+   "datum": "2026-08-31",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "Katastrophenschutzübung läuft auf Fehmarn",
    "link": "https://www.ndr.de/nachrichten/schleswig-holstein/luebeck_herzogtum-lauenburg_ostholstein/katastrophenschutzuebung-laeuft-auf-fehmarn,regionluebecknews-2920.html",
