@@ -1,7 +1,14 @@
 {
- "stand": "2026-09-01",
- "anzahl": 43,
+ "stand": "2026-09-02",
+ "anzahl": 44,
  "eintraege": [
+  {
+   "titel": "Verdacht auf illegales Schächten: Polizei untersucht Tötung zweier Schafe auf Fehmarn",
+   "link": "https://www.fehmarn24.de/fehmarn/schafe-getoetet-auf-fehmarn-polizei-ermittelt-in-kopendorf-94470467.html",
+   "datum": "2026-09-01",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "Fiktiver Deichbruch an der Westküste: 300 Einsatzkräfte proben Ernstfall auf Fehmarn",
    "link": "https://www.fehmarn24.de/fehmarn/katastrophenschutz-auf-fehmarn-300-kraefte-proben-ernstfall-94467207.html",
