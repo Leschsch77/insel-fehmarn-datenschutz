@@ -1,6 +1,6 @@
 {
- "stand": "2026-09-09",
- "anzahl": 46,
+ "stand": "2026-09-10",
+ "anzahl": 47,
  "eintraege": [
   {
    "titel": "A7 und Elbtunnel in Hamburg Richtung Süden bis Montagmorgen gesperrt",
@@ -8,6 +8,13 @@
    "datum": "2026-09-05",
    "quelle": "NDR Schleswig-Holstein",
    "rubrik": "tunnel"
+  },
+  {
+   "titel": "Mit Inklusion auf Erfolgskurs",
+   "link": "https://www.fehmarn24.de/ostholstein/mit-inklusion-auf-erfolgskurs-94476047.html",
+   "datum": "2026-09-04",
+   "quelle": "fehmarn24",
+   "rubrik": "ostholstein"
   },
   {
    "titel": "Verzicht auf dritte Amtszeit: Bürgermeister Jörg Weber tritt 2027 nicht wieder an",
