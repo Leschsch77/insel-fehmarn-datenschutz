@@ -1,7 +1,28 @@
 {
- "stand": "2026-09-10",
- "anzahl": 47,
+ "stand": "2026-09-11",
+ "anzahl": 50,
  "eintraege": [
+  {
+   "titel": "A7 in Hamburg am Wochenende nördlich des Elbtunnels dicht",
+   "link": "https://www.ndr.de/nachrichten/hamburg/a7-und-a23-am-wochenende-in-hamburg-gesperrt,asieben-172.html",
+   "datum": "2026-09-11",
+   "quelle": "NDR Schleswig-Holstein",
+   "rubrik": "tunnel"
+  },
+  {
+   "titel": "Kanaltunnel Rendsburg: Vollsperrung wegen Wartungsarbeiten",
+   "link": "https://www.ndr.de/nachrichten/schleswig-holstein/kiel_neumuenster_ploen_rendsburg-eckernfoerde/kanaltunnel-rendsburg-vollsperrung-wegen-wartungsarbeiten,regionkielnews-2840.html",
+   "datum": "2026-09-11",
+   "quelle": "NDR Schleswig-Holstein",
+   "rubrik": "tunnel"
+  },
+  {
+   "titel": "Ausfall der Doppelstockbusse Thema in Kiel",
+   "link": "https://www.fehmarn24.de/ostholstein/ausfall-der-doppelstockbusse-x85-thema-in-kiel-94484813.html",
+   "datum": "2026-09-10",
+   "quelle": "fehmarn24",
+   "rubrik": "ostholstein"
+  },
   {
    "titel": "A7 und Elbtunnel in Hamburg Richtung Süden bis Montagmorgen gesperrt",
    "link": "https://www.ndr.de/nachrichten/hamburg/a7-in-hamburg-ab-heute-abend-richtung-sueden-gesperrt,asieben-170.html",
