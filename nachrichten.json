@@ -1,7 +1,14 @@
 {
- "stand": "2026-09-12",
- "anzahl": 50,
+ "stand": "2026-09-13",
+ "anzahl": 51,
  "eintraege": [
+  {
+   "titel": "Fehmarnbeltquerung: Lübeck klagt gegen Beschluss",
+   "link": "https://www.ndr.de/nachrichten/schleswig-holstein/luebeck_herzogtum-lauenburg_ostholstein/fehmarnbeltquerung-luebeck-klagt-gegen-beschluss,fehmarnbeltquerung-104.html",
+   "datum": "2026-09-12",
+   "quelle": "NDR Schleswig-Holstein",
+   "rubrik": "tunnel"
+  },
   {
    "titel": "A7 in Hamburg am Wochenende nördlich des Elbtunnels dicht",
    "link": "https://www.ndr.de/nachrichten/hamburg/a7-und-a23-am-wochenende-in-hamburg-gesperrt,asieben-172.html",
