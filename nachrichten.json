@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-18",
+ "stand": "2026-09-19",
  "anzahl": 54,
  "eintraege": [
   {
@@ -10,18 +10,18 @@
    "rubrik": "insel"
   },
   {
-   "titel": "Fehmarnsundbrücke: Bahn kündigt enorme Kostensteigerung an",
-   "link": "https://www.ndr.de/nachrichten/schleswig-holstein/fehmarnsundbruecke-bahn-kuendigt-enorme-kostensteigerung-an,fehmarnsund-106.html",
-   "datum": "2026-09-17",
-   "quelle": "NDR Schleswig-Holstein",
-   "rubrik": "insel"
-  },
-  {
    "titel": "Der XXL-Tunnelbohrer unter der Elbe",
    "link": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjM3ODExOF9nYW56ZVNlbmR1bmc",
    "datum": "2026-09-17",
    "quelle": "NDR Schleswig-Holstein",
    "rubrik": "tunnel"
+  },
+  {
+   "titel": "Fehmarnsundbrücke: Bahn kündigt enorme Kostensteigerung an",
+   "link": "https://www.ndr.de/nachrichten/schleswig-holstein/fehmarnsundbruecke-bahn-kuendigt-enorme-kostensteigerung-an,fehmarnsund-106.html",
+   "datum": "2026-09-17",
+   "quelle": "NDR Schleswig-Holstein",
+   "rubrik": "insel"
   },
   {
    "titel": "Fehmarnbeltquerung: Lübeck klagt gegen Beschluss",
