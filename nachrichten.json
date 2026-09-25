@@ -1,7 +1,14 @@
 {
- "stand": "2026-09-24",
- "anzahl": 55,
+ "stand": "2026-09-25",
+ "anzahl": 56,
  "eintraege": [
+  {
+   "titel": "A7 und Elbtunnel in Hamburg ab heute Abend wieder voll gesperrt",
+   "link": "https://www.ndr.de/nachrichten/hamburg/a7-und-elbtunnel-in-hamburg-wieder-vollsperrung-an-diesem-wochenende,asieben-178.html",
+   "datum": "2026-09-25",
+   "quelle": "NDR Schleswig-Holstein",
+   "rubrik": "tunnel"
+  },
   {
    "titel": "Großenbrode: Wassersportschule vor dem Aus",
    "link": "https://www.fehmarn24.de/ostholstein/grossenbrode-wassersportschule-vor-dem-aus-94506826.html",
