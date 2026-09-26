@@ -1,7 +1,14 @@
 {
- "stand": "2026-09-25",
- "anzahl": 56,
+ "stand": "2026-09-26",
+ "anzahl": 57,
  "eintraege": [
+  {
+   "titel": "A7 und Elbtunnel in Hamburg über das Wochenende voll gesperrt",
+   "link": "https://www.ndr.de/nachrichten/hamburg/a7-und-elbtunnel-in-hamburg-ueber-wochenende-voll-gesperrt,asieben-178.html",
+   "datum": "2026-09-26",
+   "quelle": "NDR Schleswig-Holstein",
+   "rubrik": "tunnel"
+  },
   {
    "titel": "A7 und Elbtunnel in Hamburg ab heute Abend wieder voll gesperrt",
    "link": "https://www.ndr.de/nachrichten/hamburg/a7-und-elbtunnel-in-hamburg-wieder-vollsperrung-an-diesem-wochenende,asieben-178.html",
@@ -17,18 +24,18 @@
    "rubrik": "ostholstein"
   },
   {
-   "titel": "Mehr Zeit und Geld für die Fehmarnsundbrücke",
-   "link": "https://www.fehmarn24.de/fehmarn/fehmarnsundbruecke-mehr-zeit-und-geld-fuer-baustelle-94497050.html",
-   "datum": "2026-09-17",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
    "titel": "Der XXL-Tunnelbohrer unter der Elbe",
    "link": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjM3ODExOF9nYW56ZVNlbmR1bmc",
    "datum": "2026-09-17",
    "quelle": "NDR Schleswig-Holstein",
    "rubrik": "tunnel"
+  },
+  {
+   "titel": "Mehr Zeit und Geld für die Fehmarnsundbrücke",
+   "link": "https://www.fehmarn24.de/fehmarn/fehmarnsundbruecke-mehr-zeit-und-geld-fuer-baustelle-94497050.html",
+   "datum": "2026-09-17",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
   },
   {
    "titel": "Fehmarnsundbrücke: Bahn kündigt enorme Kostensteigerung an",
