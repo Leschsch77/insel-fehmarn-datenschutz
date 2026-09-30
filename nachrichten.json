@@ -1,13 +1,27 @@
 {
- "stand": "2026-09-29",
- "anzahl": 58,
+ "stand": "2026-09-30",
+ "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Entsorgung mit Folgen? Fehmaraner Geschäftsführer steht vor Gericht",
+   "link": "https://www.fehmarn24.de/fehmarn/entsorgung-mit-folgen-fehmaraner-geschaeftsfuehrer-steht-vor-gericht-94517563.html",
+   "datum": "2026-09-30",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "Neu gestaltete Flächen im Hafen Burgstaaken eingeweiht",
    "link": "https://www.fehmarn24.de/fehmarn/neu-gestaltete-flaechen-im-hafen-burgstaaken-eingeweiht-94514962.html",
    "datum": "2026-09-29",
    "quelle": "fehmarn24",
    "rubrik": "insel"
+  },
+  {
+   "titel": "Einer der erfolgreichsten deutschen Food Blogs ist „made in Ostholstein“",
+   "link": "https://www.fehmarn24.de/ostholstein/kochkarussell-aus-eutin-einer-der-erfolgreichsten-deutschen-food-blogs-ist-made-in-ostholstein-94516902.html",
+   "datum": "2026-09-29",
+   "quelle": "fehmarn24",
+   "rubrik": "ostholstein"
   },
   {
    "titel": "A7 und Elbtunnel in Hamburg über das Wochenende voll gesperrt",
