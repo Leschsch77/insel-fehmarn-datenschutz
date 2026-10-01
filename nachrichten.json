@@ -1,5 +1,5 @@
 {
- "stand": "2026-09-30",
+ "stand": "2026-10-01",
  "anzahl": 60,
  "eintraege": [
   {
@@ -7,6 +7,13 @@
    "link": "https://www.fehmarn24.de/fehmarn/entsorgung-mit-folgen-fehmaraner-geschaeftsfuehrer-steht-vor-gericht-94517563.html",
    "datum": "2026-09-30",
    "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
+  {
+   "titel": "Fehmarn: Rathaus mit Nazi-Parolen beschmiert",
+   "link": "https://www.ndr.de/nachrichten/schleswig-holstein/luebeck_herzogtum-lauenburg_ostholstein/fehmarn-rathaus-mit-nazi-parolen-beschmiert,regionluebecknews-3128.html",
+   "datum": "2026-09-30",
+   "quelle": "NDR Schleswig-Holstein",
    "rubrik": "insel"
   },
   {
@@ -414,13 +421,6 @@
    "datum": "2026-07-03",
    "quelle": "fehmarn24",
    "rubrik": "ostholstein"
-  },
-  {
-   "titel": "600 Schüler messen sich bei der Strandolympiade an Fehmarns Südstrand",
-   "link": "https://www.fehmarn24.de/fehmarn/strandolympiade-auf-fehmarn-600-inselschueler-am-suedstrand-94379118.html",
-   "datum": "2026-07-02",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
   }
  ]
 }
