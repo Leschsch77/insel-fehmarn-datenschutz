@@ -1,7 +1,14 @@
 {
- "stand": "2026-10-01",
+ "stand": "2026-10-02",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Fehmarn: Staatsschutz ermittelt nach Schmierereien am Rathaus",
+   "link": "https://www.fehmarn24.de/fehmarn/fehmarn-staatsschutz-ermittelt-nach-schmierereien-am-rathaus-94521948.html",
+   "datum": "2026-10-02",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "Entsorgung mit Folgen? Fehmaraner Geschäftsführer steht vor Gericht",
    "link": "https://www.fehmarn24.de/fehmarn/entsorgung-mit-folgen-fehmaraner-geschaeftsfuehrer-steht-vor-gericht-94517563.html",
@@ -414,13 +421,6 @@
    "datum": "2026-07-03",
    "quelle": "fehmarn24",
    "rubrik": "insel"
-  },
-  {
-   "titel": "Heiko Simonsen ist neue Majestät in Großenbrode",
-   "link": "https://www.fehmarn24.de/ostholstein/heiko-simonsen-ist-neue-majestaet-in-grossenbrode-94382003.html",
-   "datum": "2026-07-03",
-   "quelle": "fehmarn24",
-   "rubrik": "ostholstein"
   }
  ]
 }
