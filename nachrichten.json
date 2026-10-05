@@ -1,7 +1,21 @@
 {
- "stand": "2026-10-04",
+ "stand": "2026-10-05",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Großes Ehemaligentreffen bei Life Challenge Fehmarn",
+   "link": "https://www.fehmarn24.de/fehmarn/grosses-ehemaligentreffen-bei-life-challenge-fehmarn-94525339.html",
+   "datum": "2026-10-05",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
+  {
+   "titel": "Früheres AWO-Demenzhotel: Großenbrode zieht die Reißleine",
+   "link": "https://www.fehmarn24.de/ostholstein/frueheres-awo-demenzhotel-grossenbrode-zieht-die-reissleine-94524280.html",
+   "datum": "2026-10-04",
+   "quelle": "fehmarn24",
+   "rubrik": "ostholstein"
+  },
   {
    "titel": "Fehmarn: Staatsschutz ermittelt nach Schmierereien am Rathaus",
    "link": "https://www.fehmarn24.de/fehmarn/fehmarn-staatsschutz-ermittelt-nach-schmierereien-am-rathaus-94521948.html",
@@ -405,20 +419,6 @@
    "titel": "Kinobetreiber Hans-Peter Jansen trägt sich ins Goldene Buch Fehmarns ein",
    "link": "https://www.fehmarn24.de/fehmarn/goldenes-buch-fehmarn-ehrung-fuer-kinobetreiber-jansen-94381822.html",
    "datum": "2026-07-04",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Fehmarnbelttunnel nimmt Form an: Portal-Rohbau endet noch dieses Jahr",
-   "link": "https://www.fehmarn24.de/fehmarn/fehmarnbelttunnel-portal-rohbau-soll-bis-ende-des-jahres-stehen-94380761.html",
-   "datum": "2026-07-03",
-   "quelle": "fehmarn24",
-   "rubrik": "tunnel"
-  },
-  {
-   "titel": "Auto überschlägt sich: Fahrer befreit sich selbst aus dem Wrack",
-   "link": "https://www.fehmarn24.de/fehmarn/unfall-auf-fehmarn-auto-ueberschlaegt-sich-bei-lemkendorf-94380712.html",
-   "datum": "2026-07-03",
    "quelle": "fehmarn24",
    "rubrik": "insel"
   }
