@@ -1,12 +1,26 @@
 {
- "stand": "2026-10-05",
+ "stand": "2026-10-06",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Notruf auf Fehmarn - Die Retter von der Sonneninsel",
+   "link": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9lZjYwMTMwMy03OGFlLTQ0N2ItYmJkOC0xZjk5ODlhZDliNzM",
+   "datum": "2026-10-06",
+   "quelle": "NDR Schleswig-Holstein",
+   "rubrik": "insel"
+  },
   {
    "titel": "Großes Ehemaligentreffen bei Life Challenge Fehmarn",
    "link": "https://www.fehmarn24.de/fehmarn/grosses-ehemaligentreffen-bei-life-challenge-fehmarn-94525339.html",
    "datum": "2026-10-05",
    "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
+  {
+   "titel": "Unterwegs mit den Notfallsanitätern von Fehmarn",
+   "link": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/unterwegs-mit-notfallsanitaetern-von-fehmarn,shmag-13834.html",
+   "datum": "2026-10-05",
+   "quelle": "NDR Schleswig-Holstein",
    "rubrik": "insel"
   },
   {
@@ -405,20 +419,6 @@
    "titel": "Vom Fernsehstudio ins Freiwasser: „Herr Boning geht baden“",
    "link": "https://www.fehmarn24.de/fehmarn/wigald-boning-auf-fehmarn-kult-komiker-im-burg-filmtheater-94386118.html",
    "datum": "2026-07-07",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Leerstand nach mehreren Monaten beendet: Netto öffnet seine Türen",
-   "link": "https://www.fehmarn24.de/ostholstein/netto-oeffnet-seine-tueren-94384830.html",
-   "datum": "2026-07-06",
-   "quelle": "fehmarn24",
-   "rubrik": "ostholstein"
-  },
-  {
-   "titel": "Kinobetreiber Hans-Peter Jansen trägt sich ins Goldene Buch Fehmarns ein",
-   "link": "https://www.fehmarn24.de/fehmarn/goldenes-buch-fehmarn-ehrung-fuer-kinobetreiber-jansen-94381822.html",
-   "datum": "2026-07-04",
    "quelle": "fehmarn24",
    "rubrik": "insel"
   }
