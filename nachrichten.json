@@ -1,7 +1,21 @@
 {
- "stand": "2026-10-06",
+ "stand": "2026-10-07",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Feuerwehrtechnische Zentrale in Lensahn eingeweiht",
+   "link": "https://www.fehmarn24.de/ostholstein/feuerwehrtechnische-zentrale-in-lensahn-eingeweiht-94528121.html",
+   "datum": "2026-10-06",
+   "quelle": "fehmarn24",
+   "rubrik": "ostholstein"
+  },
+  {
+   "titel": "Großenbrode öffnet seine Türen beim großen Dorfwandern",
+   "link": "https://www.fehmarn24.de/ostholstein/grossenbrode-oeffnet-seine-tueren-beim-grossen-dorfwandern-94528016.html",
+   "datum": "2026-10-06",
+   "quelle": "fehmarn24",
+   "rubrik": "ostholstein"
+  },
   {
    "titel": "Notruf auf Fehmarn - Die Retter von der Sonneninsel",
    "link": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9lZjYwMTMwMy03OGFlLTQ0N2ItYmJkOC0xZjk5ODlhZDliNzM",
@@ -405,20 +419,6 @@
    "titel": "Mathies Rüder reitet zum U21-Meistertitel in der Vielseitigkeit",
    "link": "https://www.fehmarn24.de/fehmarn/vielseitigkeit-mathies-rueder-holt-meistertitel-der-u21-94387727.html",
    "datum": "2026-07-08",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Neukirchen ist für den Ernstfall gerüstet",
-   "link": "https://www.fehmarn24.de/ostholstein/neukirchen-ist-fuer-den-ernstfall-geruestet-94388735.html",
-   "datum": "2026-07-08",
-   "quelle": "fehmarn24",
-   "rubrik": "ostholstein"
-  },
-  {
-   "titel": "Vom Fernsehstudio ins Freiwasser: „Herr Boning geht baden“",
-   "link": "https://www.fehmarn24.de/fehmarn/wigald-boning-auf-fehmarn-kult-komiker-im-burg-filmtheater-94386118.html",
-   "datum": "2026-07-07",
    "quelle": "fehmarn24",
    "rubrik": "insel"
   }
