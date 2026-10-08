@@ -1,7 +1,14 @@
 {
- "stand": "2026-10-07",
+ "stand": "2026-10-08",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "B 207 Anschlussstelle Puttgarden freigegeben",
+   "link": "https://www.fehmarn24.de/fehmarn/b-207-anschlussstelle-puttgarden-fuer-verkehr-freigegeben-94529993.html",
+   "datum": "2026-10-07",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "Feuerwehrtechnische Zentrale in Lensahn eingeweiht",
    "link": "https://www.fehmarn24.de/ostholstein/feuerwehrtechnische-zentrale-in-lensahn-eingeweiht-94528121.html",
@@ -412,13 +419,6 @@
    "titel": "Neue Strandzugänge: Südstrand wird barrierefrei, Fehmarnsund erhält Erleichterungen",
    "link": "https://www.fehmarn24.de/fehmarn/neue-strandzugaenge-auf-fehmarn-barrierefreiheit-am-suedstrand-94388911.html",
    "datum": "2026-07-09",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Mathies Rüder reitet zum U21-Meistertitel in der Vielseitigkeit",
-   "link": "https://www.fehmarn24.de/fehmarn/vielseitigkeit-mathies-rueder-holt-meistertitel-der-u21-94387727.html",
-   "datum": "2026-07-08",
    "quelle": "fehmarn24",
    "rubrik": "insel"
   }
