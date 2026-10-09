@@ -1,7 +1,14 @@
 {
- "stand": "2026-10-08",
+ "stand": "2026-10-09",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Wiesn-Flair am Großenbroder Südstrand",
+   "link": "https://www.fehmarn24.de/ostholstein/wiesn-flair-am-grossenbroder-suedstrand-94531812.html",
+   "datum": "2026-10-08",
+   "quelle": "fehmarn24",
+   "rubrik": "ostholstein"
+  },
   {
    "titel": "B 207 Anschlussstelle Puttgarden freigegeben",
    "link": "https://www.fehmarn24.de/fehmarn/b-207-anschlussstelle-puttgarden-fuer-verkehr-freigegeben-94529993.html",
@@ -412,13 +419,6 @@
    "titel": "Nach Auflösung des Marinevereins: Stadt Fehmarn führt Niobe-Gedenken fort",
    "link": "https://www.fehmarn24.de/fehmarn/niobe-gedenken-auf-fehmarn-stadt-uebernimmt-tradition-94418431.html",
    "datum": "2026-07-28",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Neue Strandzugänge: Südstrand wird barrierefrei, Fehmarnsund erhält Erleichterungen",
-   "link": "https://www.fehmarn24.de/fehmarn/neue-strandzugaenge-auf-fehmarn-barrierefreiheit-am-suedstrand-94388911.html",
-   "datum": "2026-07-09",
    "quelle": "fehmarn24",
    "rubrik": "insel"
   }
