@@ -1,7 +1,28 @@
 {
- "stand": "2026-10-09",
+ "stand": "2026-10-10",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Auto durchbricht Absperrung und stürzt in Baugrube",
+   "link": "https://www.fehmarn24.de/fehmarn/zu-einem-schweren-verkehrsunfall-kam-es-am-heutigen-freitagvormittag-gegen-10-uhr-an-der-b207-im-bereich-der-anschlussstelle-avendorf-auf-fehmarn-94533461.html",
+   "datum": "2026-10-09",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
+  {
+   "titel": "Sundtunnel möglicherweise erst 2035 fertig?",
+   "link": "https://www.fehmarn24.de/fehmarn/und-auf-einmal-steht-das-jahr-2035-im-raum-verzoegert-sich-die-fertigstellung-der-hinterlandanbindung-fuer-die-feste-fehmarnbeltquerung-auf-deutscher-94533417.html",
+   "datum": "2026-10-09",
+   "quelle": "fehmarn24",
+   "rubrik": "tunnel"
+  },
+  {
+   "titel": "Autofahrer stürzt auf Fehmarn mehrere Meter in die Tiefe",
+   "link": "https://www.ndr.de/nachrichten/schleswig-holstein/luebeck_herzogtum-lauenburg_ostholstein/autofahrer-stuerzt-auf-fehmarn-mehrere-meter-in-die-tiefe,regionluebecknews-3196.html",
+   "datum": "2026-10-09",
+   "quelle": "NDR Schleswig-Holstein",
+   "rubrik": "insel"
+  },
   {
    "titel": "Wiesn-Flair am Großenbroder Südstrand",
    "link": "https://www.fehmarn24.de/ostholstein/wiesn-flair-am-grossenbroder-suedstrand-94531812.html",
@@ -398,27 +419,6 @@
    "titel": "1489. Badetag auf Fehmarn: Wigald Boning begeistert mit humorvollem Vortrag",
    "link": "https://www.fehmarn24.de/fehmarn/wigald-boning-begeistert-im-burg-filmtheater-auf-fehmarn-94423781.html",
    "datum": "2026-07-31",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Hommage an die Pop-Legenden: „Super Swede“ spielt ABBA-Hits in Burgstaaken",
-   "link": "https://www.fehmarn24.de/fehmarn/abba-tributeband-super-swede-live-in-burgstaaken-94420379.html",
-   "datum": "2026-07-30",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Nach 45 Jahren Dienstzeit: Scandlines-Fähre „Kronprins Frederik“ wird abgewrackt",
-   "link": "https://www.fehmarn24.de/fehmarn/scandlines-faehre-kronprins-frederik-wird-abgewrackt-94419326.html",
-   "datum": "2026-07-29",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Nach Auflösung des Marinevereins: Stadt Fehmarn führt Niobe-Gedenken fort",
-   "link": "https://www.fehmarn24.de/fehmarn/niobe-gedenken-auf-fehmarn-stadt-uebernimmt-tradition-94418431.html",
-   "datum": "2026-07-28",
    "quelle": "fehmarn24",
    "rubrik": "insel"
   }
