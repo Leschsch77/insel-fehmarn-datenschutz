@@ -1,7 +1,21 @@
 {
- "stand": "2026-10-11",
+ "stand": "2026-10-12",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Planungen für OGS-Erweiterung werden neu aufgerollt",
+   "link": "https://www.fehmarn24.de/fehmarn/fehmarn-planungen-fuer-ogs-erweiterung-werden-neu-aufgerollt-94536264.html",
+   "datum": "2026-10-12",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
+  {
+   "titel": "Staubsauger, Strominkasso, Social Media: Der ungewöhnliche Weg des „Tippgebers“",
+   "link": "https://www.fehmarn24.de/ostholstein/staubsauger-strominkasso-social-media-der-ungewoehnliche-weg-des-tippgebers-94530051.html",
+   "datum": "2026-10-12",
+   "quelle": "fehmarn24",
+   "rubrik": "ostholstein"
+  },
   {
    "titel": "Auto durchbricht Absperrung und stürzt in Baugrube",
    "link": "https://www.fehmarn24.de/fehmarn/zu-einem-schweren-verkehrsunfall-kam-es-am-heutigen-freitagvormittag-gegen-10-uhr-an-der-b207-im-bereich-der-anschlussstelle-avendorf-auf-fehmarn-94533461.html",
@@ -407,20 +421,6 @@
    "datum": "2026-08-04",
    "quelle": "fehmarn24",
    "rubrik": "ostholstein"
-  },
-  {
-   "titel": "Küstenrad- und Wanderweg in Sütel: Grünes Licht mit teuren Auflagen",
-   "link": "https://www.fehmarn24.de/heiligenhafen/kuestenrad-und-wanderweg-in-suetel-gruenes-licht-mit-teuren-auflagen-94428129.html",
-   "datum": "2026-08-04",
-   "quelle": "fehmarn24",
-   "rubrik": "ostholstein"
-  },
-  {
-   "titel": "1489. Badetag auf Fehmarn: Wigald Boning begeistert mit humorvollem Vortrag",
-   "link": "https://www.fehmarn24.de/fehmarn/wigald-boning-begeistert-im-burg-filmtheater-auf-fehmarn-94423781.html",
-   "datum": "2026-07-31",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
   }
  ]
 }
