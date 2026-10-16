@@ -1,7 +1,14 @@
 {
- "stand": "2026-10-15",
+ "stand": "2026-10-16",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Drachenfest auf Fehmarn: Buntes Spektakel am Himmel",
+   "link": "https://www.ndr.de/nachrichten/schleswig-holstein/luebeck_herzogtum-lauenburg_ostholstein/fehmarn-der-himmel-verwandelt-sich-in-buntes-meer-aus-drachen,drachenfest-128.html",
+   "datum": "2026-10-16",
+   "quelle": "NDR Schleswig-Holstein",
+   "rubrik": "insel"
+  },
   {
    "titel": "Hybride Kriegsführung in der Ostsee? Cyberangriff trifft Fehmarnbelt-Tunnel",
    "link": "https://www.fehmarn24.de/welt/hybride-kriegsfuehrung-in-der-ostsee-cyberangriff-trifft-fehmarnbelt-tunnel-94541851.html",
@@ -414,13 +421,6 @@
    "datum": "2026-08-10",
    "quelle": "fehmarn24",
    "rubrik": "ostholstein"
-  },
-  {
-   "titel": "Riss in der Fahrbahn: LBV plant neue Markierung zur Entlastung",
-   "link": "https://www.fehmarn24.de/fehmarn/207-auf-fehmarn-abgesackt-staus-und-verkehrschaos-94433399.html",
-   "datum": "2026-08-07",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
   }
  ]
 }
