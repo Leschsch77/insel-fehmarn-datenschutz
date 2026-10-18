@@ -1,7 +1,14 @@
 {
- "stand": "2026-10-17",
+ "stand": "2026-10-18",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "So läuft das Drachenfest auf Fehmarn",
+   "link": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/so-laeuft-drachenfest-auf-fehmarn,shmag-14204.html",
+   "datum": "2026-10-18",
+   "quelle": "NDR Schleswig-Holstein",
+   "rubrik": "insel"
+  },
   {
    "titel": "Nach Cyberangriff auf FLC: Bauarbeiten am Tunnel laufen schrittweise wieder an",
    "link": "https://www.fehmarn24.de/fehmarn/cyberangriff-auf-flc-arbeiten-am-fehmarnbelt-laufen-wieder-an-94545050.html",
@@ -199,18 +206,18 @@
    "rubrik": "ostholstein"
   },
   {
-   "titel": "Mehr Zeit und Geld für die Fehmarnsundbrücke",
-   "link": "https://www.fehmarn24.de/fehmarn/fehmarnsundbruecke-mehr-zeit-und-geld-fuer-baustelle-94497050.html",
-   "datum": "2026-09-17",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
    "titel": "Der XXL-Tunnelbohrer unter der Elbe",
    "link": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjM3ODExOF9nYW56ZVNlbmR1bmc",
    "datum": "2026-09-17",
    "quelle": "NDR Schleswig-Holstein",
    "rubrik": "tunnel"
+  },
+  {
+   "titel": "Mehr Zeit und Geld für die Fehmarnsundbrücke",
+   "link": "https://www.fehmarn24.de/fehmarn/fehmarnsundbruecke-mehr-zeit-und-geld-fuer-baustelle-94497050.html",
+   "datum": "2026-09-17",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
   },
   {
    "titel": "Fehmarnsundbrücke: Bahn kündigt enorme Kostensteigerung an",
@@ -411,13 +418,6 @@
   {
    "titel": "Von Pixar bis Musikkomödie: Kostenloses Strandkino in Burgtiefe",
    "link": "https://www.fehmarn24.de/fehmarn/open-air-kino-am-suedstrand-kostenlos-filme-am-meer-94437959.html",
-   "datum": "2026-08-11",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Mit Traktor und Bauwagen: Stammzellempfänger wirbt auf Fehmarn für Typisierungen",
-   "link": "https://www.fehmarn24.de/fehmarn/didi-on-tour-stammzellpionier-macht-station-auf-fehmarn-94437935.html",
    "datum": "2026-08-11",
    "quelle": "fehmarn24",
    "rubrik": "insel"
