@@ -1,7 +1,21 @@
 {
- "stand": "2026-10-18",
+ "stand": "2026-10-19",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Neuer Vorstand im zweiten Anlauf: Thomas Hillebrand führt Kirchner-Verein Fehmarn",
+   "link": "https://www.fehmarn24.de/fehmarn/kirchner-verein-fehmarn-thomas-hillebrand-neuer-vorsitzender-94547602.html",
+   "datum": "2026-10-19",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
+  {
+   "titel": "Verwüstung am Südstrand und umgestürzter Baum: Wind und Wellen treffen Fehmarn",
+   "link": "https://www.fehmarn24.de/fehmarn/sturmflut-auf-fehmarn-hauptsteg-am-suedstrand-schwer-beschaedigt-94546774.html",
+   "datum": "2026-10-18",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "So läuft das Drachenfest auf Fehmarn",
    "link": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/so-laeuft-drachenfest-auf-fehmarn,shmag-14204.html",
@@ -405,20 +419,6 @@
    "titel": "Einblicke in Werkstätten: Kunstschaffende öffnen ihre Türen auf Fehmarn",
    "link": "https://www.fehmarn24.de/fehmarn/tag-des-offenen-ateliers-auf-fehmarn-kunst-hautnah-erleben-94444338.html",
    "datum": "2026-08-14",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Umweltminister zu Gast auf Fehmarn: Reederei trotzt Tunnelplänen mit starken Zahlen",
-   "link": "https://www.fehmarn24.de/fehmarn/scandlines-auf-fehmarn-ministerbesuch-und-rekordzahlen-94443376.html",
-   "datum": "2026-08-14",
-   "quelle": "fehmarn24",
-   "rubrik": "tunnel"
-  },
-  {
-   "titel": "Von Pixar bis Musikkomödie: Kostenloses Strandkino in Burgtiefe",
-   "link": "https://www.fehmarn24.de/fehmarn/open-air-kino-am-suedstrand-kostenlos-filme-am-meer-94437959.html",
-   "datum": "2026-08-11",
    "quelle": "fehmarn24",
    "rubrik": "insel"
   }
