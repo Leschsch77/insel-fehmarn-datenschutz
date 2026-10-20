@@ -1,7 +1,14 @@
 {
- "stand": "2026-10-19",
+ "stand": "2026-10-20",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Verkauf statt teurer Sanierung: Petersdorf baut modernen Treffpunkt direkt ins Kirchenschiff",
+   "link": "https://www.fehmarn24.de/fehmarn/pastorat-petersdorf-vor-verkauf-glasraum-in-kirche-geplant-94549487.html",
+   "datum": "2026-10-20",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "Neuer Vorstand im zweiten Anlauf: Thomas Hillebrand führt Kirchner-Verein Fehmarn",
    "link": "https://www.fehmarn24.de/fehmarn/kirchner-verein-fehmarn-thomas-hillebrand-neuer-vorsitzender-94547602.html",
@@ -412,13 +419,6 @@
    "titel": "Flaschenpost von Fehmarn: Wie eine Botschaft im Meer zwei Familien verband",
    "link": "https://www.fehmarn24.de/fehmarn/flaschenpost-von-fehmarn-freundschaft-ueber-die-ddr-grenze-94444263.html",
    "datum": "2026-08-16",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Einblicke in Werkstätten: Kunstschaffende öffnen ihre Türen auf Fehmarn",
-   "link": "https://www.fehmarn24.de/fehmarn/tag-des-offenen-ateliers-auf-fehmarn-kunst-hautnah-erleben-94444338.html",
-   "datum": "2026-08-14",
    "quelle": "fehmarn24",
    "rubrik": "insel"
   }
