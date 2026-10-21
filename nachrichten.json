@@ -1,7 +1,21 @@
 {
- "stand": "2026-10-20",
+ "stand": "2026-10-21",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Gedenkstein zur Erinnerung der auf See gebliebenen Berufsfischer aufgestellt",
+   "link": "https://www.fehmarn24.de/fehmarn/gedenkstein-zur-erinnerung-an-auf-see-gebliebene-fischer-aufgestellt-94551295.html",
+   "datum": "2026-10-21",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
+  {
+   "titel": "Standardbauten gegen Kostendruck: Petersdorf erhält größeres Muster-Feuerwehrhaus",
+   "link": "https://www.fehmarn24.de/fehmarn/neubau-feuerwehr-westfehmarn-vier-millionen-euro-fuer-petersdorf-94550879.html",
+   "datum": "2026-10-21",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "Verkauf statt teurer Sanierung: Petersdorf baut modernen Treffpunkt direkt ins Kirchenschiff",
    "link": "https://www.fehmarn24.de/fehmarn/pastorat-petersdorf-vor-verkauf-glasraum-in-kirche-geplant-94549487.html",
@@ -407,20 +421,6 @@
    "datum": "2026-08-18",
    "quelle": "fehmarn24",
    "rubrik": "ostholstein"
-  },
-  {
-   "titel": "Elbquerung: Symbolischer Tunneldurchschlag der Suedlink-Trasse",
-   "link": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/elbquerung-symbolischer-tunneldurchschlag-der-suedlink-trasse,shmag-12406.html",
-   "datum": "2026-08-17",
-   "quelle": "NDR Schleswig-Holstein",
-   "rubrik": "tunnel"
-  },
-  {
-   "titel": "Flaschenpost von Fehmarn: Wie eine Botschaft im Meer zwei Familien verband",
-   "link": "https://www.fehmarn24.de/fehmarn/flaschenpost-von-fehmarn-freundschaft-ueber-die-ddr-grenze-94444263.html",
-   "datum": "2026-08-16",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
   }
  ]
 }
