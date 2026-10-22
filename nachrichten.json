@@ -1,7 +1,14 @@
 {
- "stand": "2026-10-21",
+ "stand": "2026-10-22",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Veranstaltungen auf einen Klick: Fehmarn startet WhatsApp-Kanal für Begegnungen",
+   "link": "https://www.fehmarn24.de/fehmarn/fehmarn-kiek-an-neuer-whatsapp-kanal-gegen-einsamkeit-94552849.html",
+   "datum": "2026-10-22",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "Gedenkstein zur Erinnerung der auf See gebliebenen Berufsfischer aufgestellt",
    "link": "https://www.fehmarn24.de/fehmarn/gedenkstein-zur-erinnerung-an-auf-see-gebliebene-fischer-aufgestellt-94551295.html",
@@ -412,13 +419,6 @@
    "titel": "B 207: Schadstelle wird am Freitag repariert",
    "link": "https://www.fehmarn24.de/ostholstein/207-schadstelle-wird-am-freitag-repariert-94451260.html",
    "datum": "2026-08-19",
-   "quelle": "fehmarn24",
-   "rubrik": "ostholstein"
-  },
-  {
-   "titel": "100 Jahre im Dorfleben verankert",
-   "link": "https://www.fehmarn24.de/ostholstein/100-jahre-im-dorfleben-verankert-94449540.html",
-   "datum": "2026-08-18",
    "quelle": "fehmarn24",
    "rubrik": "ostholstein"
   }
