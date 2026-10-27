@@ -1,7 +1,14 @@
 {
- "stand": "2026-10-26",
+ "stand": "2026-10-27",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Gesichter werden zu Musik: Julian Erksmeyer bringt „Symphony of Faces“ nach Fehmarn",
+   "link": "https://www.fehmarn24.de/fehmarn/symphony-of-faces-julian-erksmeyer-stellt-auf-fehmarn-aus-94560249.html",
+   "datum": "2026-10-27",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "Veranstaltungen auf einen Klick: Fehmarn startet WhatsApp-Kanal für Begegnungen",
    "link": "https://www.fehmarn24.de/fehmarn/fehmarn-kiek-an-neuer-whatsapp-kanal-gegen-einsamkeit-94552849.html",
@@ -414,13 +421,6 @@
    "datum": "2026-08-20",
    "quelle": "fehmarn24",
    "rubrik": "insel"
-  },
-  {
-   "titel": "B 207: Schadstelle wird am Freitag repariert",
-   "link": "https://www.fehmarn24.de/ostholstein/207-schadstelle-wird-am-freitag-repariert-94451260.html",
-   "datum": "2026-08-19",
-   "quelle": "fehmarn24",
-   "rubrik": "ostholstein"
   }
  ]
 }
