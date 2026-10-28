@@ -1,7 +1,14 @@
 {
- "stand": "2026-10-27",
+ "stand": "2026-10-28",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Halloween mit Stirnlampe und Kostüm: 500 Wanderer beim „Marsch zum Meer“ auf Fehmarn",
+   "link": "https://www.fehmarn24.de/fehmarn/marsch-zum-meer-auf-fehmarn-rekord-beim-halloween-special-94561858.html",
+   "datum": "2026-10-28",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "Gesichter werden zu Musik: Julian Erksmeyer bringt „Symphony of Faces“ nach Fehmarn",
    "link": "https://www.fehmarn24.de/fehmarn/symphony-of-faces-julian-erksmeyer-stellt-auf-fehmarn-aus-94560249.html",
@@ -412,13 +419,6 @@
    "titel": "Flaggenwechsel bei Scandlines: Mehr Flexibilität für deutsch-dänische Besatzungen",
    "link": "https://www.fehmarn24.de/fehmarn/flaggenwechsel-bei-scandlines-prins-richard-wird-deutsch-94453420.html",
    "datum": "2026-08-21",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Yachtbergung geglückt: Spezialtransporter bringt 30-Tonnen-Schiff an Land",
-   "link": "https://www.fehmarn24.de/fehmarn/jacht-bergung-vor-fluegge-auf-fehmarn-mit-300-tonnen-kran-94451881.html",
-   "datum": "2026-08-20",
    "quelle": "fehmarn24",
    "rubrik": "insel"
   }
