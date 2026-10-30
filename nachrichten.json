@@ -1,7 +1,21 @@
 {
- "stand": "2026-10-29",
+ "stand": "2026-10-30",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Tunnel, Straßen und Schienen im Fokus: Mehr als 250 Gäste informieren sich über Großprojekte",
+   "link": "https://www.fehmarn24.de/fehmarn/insel-dialog-auf-fehmarn-aktuelles-zu-grossprojekten-94565759.html",
+   "datum": "2026-10-30",
+   "quelle": "fehmarn24",
+   "rubrik": "tunnel"
+  },
+  {
+   "titel": "Winterregeln ab 1. November: Freie Strände für Hunde und Pause bei der Sonntagsöffnung",
+   "link": "https://www.fehmarn24.de/fehmarn/winterregeln-ab-november-straende-fuer-hunde-und-baederregelung-94565027.html",
+   "datum": "2026-10-29",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "Halloween mit Stirnlampe und Kostüm: 500 Wanderer beim „Marsch zum Meer“ auf Fehmarn",
    "link": "https://www.fehmarn24.de/fehmarn/marsch-zum-meer-auf-fehmarn-rekord-beim-halloween-special-94561858.html",
@@ -406,20 +420,6 @@
    "link": "https://www.ndr.de/nachrichten/schleswig-holstein/neue-folgen-von-nord-bei-nordwest-fehmarn-ist-wieder-schwanitz,nordbeinordwest-106.html",
    "datum": "2026-08-24",
    "quelle": "NDR Schleswig-Holstein",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Kostenlose Erfrischung auf Knopfdruck: Neuer Trinkbrunnen vor der Tourist-Info",
-   "link": "https://www.fehmarn24.de/fehmarn/burgtiefe-auf-fehmarn-neuer-trinkbrunnen-am-suedstrand-94454524.html",
-   "datum": "2026-08-22",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Flaggenwechsel bei Scandlines: Mehr Flexibilität für deutsch-dänische Besatzungen",
-   "link": "https://www.fehmarn24.de/fehmarn/flaggenwechsel-bei-scandlines-prins-richard-wird-deutsch-94453420.html",
-   "datum": "2026-08-21",
-   "quelle": "fehmarn24",
    "rubrik": "insel"
   }
  ]
