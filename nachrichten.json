@@ -1,7 +1,14 @@
 {
- "stand": "2026-10-31",
+ "stand": "2026-11-01",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Fehmarn: Feuerwehr löscht brennende Scheune",
+   "link": "https://www.ndr.de/nachrichten/schleswig-holstein/luebeck_herzogtum-lauenburg_ostholstein/fehmarn-feuerwehr-loescht-brennende-scheune,regionluebecknews-3322.html",
+   "datum": "2026-11-01",
+   "quelle": "NDR Schleswig-Holstein",
+   "rubrik": "insel"
+  },
   {
    "titel": "Tunnel, Straßen und Schienen im Fokus: Mehr als 250 Gäste informieren sich über Großprojekte",
    "link": "https://www.fehmarn24.de/fehmarn/insel-dialog-auf-fehmarn-aktuelles-zu-grossprojekten-94565759.html",
@@ -413,13 +420,6 @@
    "link": "https://www.fehmarn24.de/fehmarn/50-jahre-nabu-wallnau-jubilaeum-auf-fehmarn-gefeiert-94456734.html",
    "datum": "2026-08-24",
    "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Neue Folgen von \"Nord bei Nordwest\" - Fehmarn ist wieder Schwanitz",
-   "link": "https://www.ndr.de/nachrichten/schleswig-holstein/neue-folgen-von-nord-bei-nordwest-fehmarn-ist-wieder-schwanitz,nordbeinordwest-106.html",
-   "datum": "2026-08-24",
-   "quelle": "NDR Schleswig-Holstein",
    "rubrik": "insel"
   }
  ]
