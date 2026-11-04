@@ -1,7 +1,14 @@
 {
- "stand": "2026-11-03",
+ "stand": "2026-11-04",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Nadel in Schokoriegel auf Fehmarn: Große Bürger-Mithilfe – 15 Säcke und Taschen abgegeben",
+   "link": "https://www.fehmarn24.de/fehmarn/nadel-in-halloween-suessigkeiten-auf-fehmarn-polizei-ermittelt-94573288.html",
+   "datum": "2026-11-04",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "Nach Nähnadelfund in Schokoriegel: Kriminalpolizei ermittelt",
    "link": "https://www.fehmarn24.de/fehmarn/nach-naehnadelfund-in-schokoriegel-kriminalpolizei-ermittelt-94570072.html",
@@ -414,13 +421,6 @@
    "datum": "2026-08-25",
    "quelle": "fehmarn24",
    "rubrik": "insel"
-  },
-  {
-   "titel": "SV Neukirchen: 100 Jahre gemeinsam am Ball",
-   "link": "https://www.fehmarn24.de/ostholstein/sv-neukirchen-100-jahre-gemeinsam-am-ball-94459837.html",
-   "datum": "2026-08-25",
-   "quelle": "fehmarn24",
-   "rubrik": "ostholstein"
   }
  ]
 }
