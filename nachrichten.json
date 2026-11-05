@@ -1,7 +1,14 @@
 {
- "stand": "2026-11-04",
+ "stand": "2026-11-05",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Stadt Fehmarn: Haushalt bleibt angespannt",
+   "link": "https://www.fehmarn24.de/fehmarn/stadt-fehmarn-haushalt-2026-bleibt-angespannt-94575676.html",
+   "datum": "2026-11-05",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "Nadel in Schokoriegel auf Fehmarn: Große Bürger-Mithilfe – 15 Säcke und Taschen abgegeben",
    "link": "https://www.fehmarn24.de/fehmarn/nadel-in-halloween-suessigkeiten-auf-fehmarn-polizei-ermittelt-94573288.html",
@@ -412,13 +419,6 @@
    "titel": "Auf dem Weg zur Nullemission: Fähre „Schleswig-Holstein“ geht zur Umrüstung in die Werft",
    "link": "https://www.fehmarn24.de/fehmarn/scandlines-ruestet-faehre-schleswig-holstein-in-werft-um-94460419.html",
    "datum": "2026-08-26",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Erfolg für die Inselpolitik: Notarztstandort auf Fehmarn bleibt dauerhaft erhalten",
-   "link": "https://www.fehmarn24.de/fehmarn/notarzt-bleibt-auf-fehmarn-kreis-ostholstein-lenkt-ein-94459216.html",
-   "datum": "2026-08-25",
    "quelle": "fehmarn24",
    "rubrik": "insel"
   }
