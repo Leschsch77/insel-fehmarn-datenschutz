@@ -1,7 +1,14 @@
 {
- "stand": "2026-11-06",
+ "stand": "2026-11-07",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Vielfalt des Engagements: Fehmarn feiert am Sonntag den Tag des Ehrenamtes",
+   "link": "https://www.fehmarn24.de/fehmarn/tag-des-ehrenamtes-auf-fehmarn-messe-in-der-grosssporthalle-94578854.html",
+   "datum": "2026-11-07",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "Stadt Fehmarn: Haushalt bleibt angespannt",
    "link": "https://www.fehmarn24.de/fehmarn/stadt-fehmarn-haushalt-2026-bleibt-angespannt-94575676.html",
@@ -412,13 +419,6 @@
    "titel": "Zehn Plätze unter Europas Top 100: Fehmarn und Schleswig-Holstein führen Ranking an",
    "link": "https://www.fehmarn24.de/fehmarn/wulfener-hals-auf-fehmarn-ist-gefragtester-campingplatz-europas-94460435.html",
    "datum": "2026-08-27",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Auf dem Weg zur Nullemission: Fähre „Schleswig-Holstein“ geht zur Umrüstung in die Werft",
-   "link": "https://www.fehmarn24.de/fehmarn/scandlines-ruestet-faehre-schleswig-holstein-in-werft-um-94460419.html",
-   "datum": "2026-08-26",
    "quelle": "fehmarn24",
    "rubrik": "insel"
   }
