@@ -1,7 +1,14 @@
 {
- "stand": "2026-11-09",
+ "stand": "2026-11-10",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Prozess gegen Entsorgungsunternehmen endet mit Freispruch",
+   "link": "https://www.fehmarn24.de/fehmarn/prozess-gegen-entsorgungsunternehmen-endet-mit-freispruch-94581878.html",
+   "datum": "2026-11-09",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "Vielfalt des Engagements: Fehmarn feiert am Sonntag den Tag des Ehrenamtes",
    "link": "https://www.fehmarn24.de/fehmarn/tag-des-ehrenamtes-auf-fehmarn-messe-in-der-grosssporthalle-94578854.html",
@@ -412,13 +419,6 @@
    "titel": "Vom Schutz der Ostsee bis zur Energiewende: Umweltrat stellt neue Projekte vor",
    "link": "https://www.fehmarn24.de/fehmarn/tauchcamp-und-ostseeschutz-umweltrat-fehmarn-stellt-plaene-vor-94462617.html",
    "datum": "2026-08-28",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Zehn Plätze unter Europas Top 100: Fehmarn und Schleswig-Holstein führen Ranking an",
-   "link": "https://www.fehmarn24.de/fehmarn/wulfener-hals-auf-fehmarn-ist-gefragtester-campingplatz-europas-94460435.html",
-   "datum": "2026-08-27",
    "quelle": "fehmarn24",
    "rubrik": "insel"
   }
