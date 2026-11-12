@@ -1,7 +1,21 @@
 {
- "stand": "2026-11-11",
+ "stand": "2026-11-12",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Neuer Haushaltsentwurf der Stadt Fehmarn: Rote Zahlen und strenge Sperrvermerke bei Millionenprojekten",
+   "link": "https://www.fehmarn24.de/fehmarn/haushalt-fehmarn-2027-defizit-und-millionenprojekte-gesperrt-94586000.html",
+   "datum": "2026-11-12",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
+  {
+   "titel": "Geschichte der Kriegsgräber sichtbar machen: Drei neue Infostelen für den Neuen Friedhof in Burg",
+   "link": "https://www.fehmarn24.de/fehmarn/volkstrauertag-auf-fehmarn-neue-infostelen-auf-dem-friedhof-94585577.html",
+   "datum": "2026-11-11",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "Bauausschuss: Fehmarnsund steht auf der Agenda",
    "link": "https://www.fehmarn24.de/fehmarn/bauausschuss-fehmarn-fehmarnsund-steht-auf-der-agenda-94583687.html",
@@ -406,20 +420,6 @@
    "link": "https://www.fehmarn24.de/fehmarn/schafe-getoetet-auf-fehmarn-polizei-ermittelt-in-kopendorf-94470467.html",
    "datum": "2026-09-01",
    "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Fiktiver Deichbruch an der Westküste: 300 Einsatzkräfte proben Ernstfall auf Fehmarn",
-   "link": "https://www.fehmarn24.de/fehmarn/katastrophenschutz-auf-fehmarn-300-kraefte-proben-ernstfall-94467207.html",
-   "datum": "2026-08-31",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Katastrophenschutzübung läuft auf Fehmarn",
-   "link": "https://www.ndr.de/nachrichten/schleswig-holstein/luebeck_herzogtum-lauenburg_ostholstein/katastrophenschutzuebung-laeuft-auf-fehmarn,regionluebecknews-2920.html",
-   "datum": "2026-08-29",
-   "quelle": "NDR Schleswig-Holstein",
    "rubrik": "insel"
   }
  ]
