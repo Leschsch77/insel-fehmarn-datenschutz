@@ -1,7 +1,14 @@
 {
- "stand": "2026-11-15",
+ "stand": "2026-11-16",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Eine 24/7-Poststation für Großenbrode",
+   "link": "https://www.fehmarn24.de/ostholstein/eine-24-poststation-fuer-grossenbrode-94591275.html",
+   "datum": "2026-11-15",
+   "quelle": "fehmarn24",
+   "rubrik": "ostholstein"
+  },
   {
    "titel": "Neuer Haushaltsentwurf der Stadt Fehmarn: Rote Zahlen und strenge Sperrvermerke bei Millionenprojekten",
    "link": "https://www.fehmarn24.de/fehmarn/haushalt-fehmarn-2027-defizit-und-millionenprojekte-gesperrt-94586000.html",
@@ -412,13 +419,6 @@
    "titel": "Verzicht auf dritte Amtszeit: Bürgermeister Jörg Weber tritt 2027 nicht wieder an",
    "link": "https://www.fehmarn24.de/fehmarn/buergermeister-joerg-weber-tritt-2027-auf-fehmarn-nicht-mehr-an-94472212.html",
    "datum": "2026-09-02",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Verdacht auf illegales Schächten: Polizei untersucht Tötung zweier Schafe auf Fehmarn",
-   "link": "https://www.fehmarn24.de/fehmarn/schafe-getoetet-auf-fehmarn-polizei-ermittelt-in-kopendorf-94470467.html",
-   "datum": "2026-09-01",
    "quelle": "fehmarn24",
    "rubrik": "insel"
   }
