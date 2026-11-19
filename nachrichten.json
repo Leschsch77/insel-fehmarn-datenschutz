@@ -1,7 +1,21 @@
 {
- "stand": "2026-11-18",
+ "stand": "2026-11-19",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Fehmarnbelt-Tunnel: Dichtung ist beschädigt - was bisher bekannt ist",
+   "link": "https://www.ndr.de/nachrichten/schleswig-holstein/luebeck_herzogtum-lauenburg_ostholstein/fehmarnbelt-tunnel-dichtung-in-tunnel-beschaedigt,fehmarnbelttunnel-132.html",
+   "datum": "2026-11-19",
+   "quelle": "NDR Schleswig-Holstein",
+   "rubrik": "tunnel"
+  },
+  {
+   "titel": "Große Pläne für Fehmarns Jugend",
+   "link": "https://www.fehmarn24.de/fehmarn/neues-jugendzentrum-grosse-plaene-fuer-fehmarns-jugend-94597142.html",
+   "datum": "2026-11-18",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "Ausbau des Verbindungswegs Burg–Wulfen: Vollsperrung ab kommenden Montag",
    "link": "https://www.fehmarn24.de/fehmarn/verbindungsweg-burg-nach-wulfen-vollsperrung-ab-23-november-94594046.html",
@@ -405,20 +419,6 @@
    "titel": "Kanaltunnel Rendsburg: Vollsperrung wegen Wartungsarbeiten",
    "link": "https://www.ndr.de/nachrichten/schleswig-holstein/kiel_neumuenster_ploen_rendsburg-eckernfoerde/kanaltunnel-rendsburg-vollsperrung-wegen-wartungsarbeiten,regionkielnews-2840.html",
    "datum": "2026-09-11",
-   "quelle": "NDR Schleswig-Holstein",
-   "rubrik": "tunnel"
-  },
-  {
-   "titel": "Ausfall der Doppelstockbusse Thema in Kiel",
-   "link": "https://www.fehmarn24.de/ostholstein/ausfall-der-doppelstockbusse-x85-thema-in-kiel-94484813.html",
-   "datum": "2026-09-10",
-   "quelle": "fehmarn24",
-   "rubrik": "ostholstein"
-  },
-  {
-   "titel": "A7 und Elbtunnel in Hamburg Richtung Süden bis Montagmorgen gesperrt",
-   "link": "https://www.ndr.de/nachrichten/hamburg/a7-in-hamburg-ab-heute-abend-richtung-sueden-gesperrt,asieben-170.html",
-   "datum": "2026-09-05",
    "quelle": "NDR Schleswig-Holstein",
    "rubrik": "tunnel"
   }
