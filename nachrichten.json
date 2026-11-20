@@ -1,7 +1,28 @@
 {
- "stand": "2026-11-19",
+ "stand": "2026-11-20",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Sorge um Klinik, Notarzt und Anlaufpraxis: Volles Haus bei CDU-Talkrunde zur medizinischen Versorgung auf Fehmarn",
+   "link": "https://www.fehmarn24.de/fehmarn/medizinische-versorgung-fehmarn-talkrunde-sorge-um-klinik-94599639.html",
+   "datum": "2026-11-20",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
+  {
+   "titel": "Großenbrode: Herrenlose Katzen auf ehemaligem AWO-Gelände",
+   "link": "https://www.fehmarn24.de/ostholstein/grossenbrode-herrenlose-katzen-auf-ehemaligem-awo-gelaende-94599154.html",
+   "datum": "2026-11-19",
+   "quelle": "fehmarn24",
+   "rubrik": "ostholstein"
+  },
+  {
+   "titel": "Fehmarnbelt-Tunnel: Dichtung ist beschädigt - was bisher bekannt ist",
+   "link": "https://www.ndr.de/nachrichten/schleswig-holstein/luebeck_herzogtum-lauenburg_ostholstein/fehmarnbelt-tunnel-dichtung-ist-beschaedigt-was-bisher-bekannt-ist,fehmarnbelttunnel-132.html",
+   "datum": "2026-11-19",
+   "quelle": "NDR Schleswig-Holstein",
+   "rubrik": "tunnel"
+  },
   {
    "titel": "Fehmarnbelt-Tunnel: Dichtung ist beschädigt - was bisher bekannt ist",
    "link": "https://www.ndr.de/nachrichten/schleswig-holstein/luebeck_herzogtum-lauenburg_ostholstein/fehmarnbelt-tunnel-dichtung-in-tunnel-beschaedigt,fehmarnbelttunnel-132.html",
@@ -400,27 +421,6 @@
    "datum": "2026-09-17",
    "quelle": "NDR Schleswig-Holstein",
    "rubrik": "insel"
-  },
-  {
-   "titel": "Fehmarnbeltquerung: Lübeck klagt gegen Beschluss",
-   "link": "https://www.ndr.de/nachrichten/schleswig-holstein/luebeck_herzogtum-lauenburg_ostholstein/fehmarnbeltquerung-luebeck-klagt-gegen-beschluss,fehmarnbeltquerung-104.html",
-   "datum": "2026-09-12",
-   "quelle": "NDR Schleswig-Holstein",
-   "rubrik": "tunnel"
-  },
-  {
-   "titel": "A7 in Hamburg am Wochenende nördlich des Elbtunnels dicht",
-   "link": "https://www.ndr.de/nachrichten/hamburg/a7-und-a23-am-wochenende-in-hamburg-gesperrt,asieben-172.html",
-   "datum": "2026-09-11",
-   "quelle": "NDR Schleswig-Holstein",
-   "rubrik": "tunnel"
-  },
-  {
-   "titel": "Kanaltunnel Rendsburg: Vollsperrung wegen Wartungsarbeiten",
-   "link": "https://www.ndr.de/nachrichten/schleswig-holstein/kiel_neumuenster_ploen_rendsburg-eckernfoerde/kanaltunnel-rendsburg-vollsperrung-wegen-wartungsarbeiten,regionkielnews-2840.html",
-   "datum": "2026-09-11",
-   "quelle": "NDR Schleswig-Holstein",
-   "rubrik": "tunnel"
   }
  ]
 }
