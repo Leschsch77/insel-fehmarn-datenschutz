@@ -1,7 +1,14 @@
 {
- "stand": "2026-11-22",
+ "stand": "2026-11-23",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "„Ist unser Boot gesunken?“: Historischer Fischkutter aus „Nord bei Nordwest“ untergegangen",
+   "link": "https://www.fehmarn24.de/fehmarn/historischer-fischkutter-aus-ard-serie-nord-bei-nordwest-ist-an-liegeplatz-im-orther-hafen-auf-fehmarn-gesunken-94604355.html",
+   "datum": "2026-11-23",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
   {
    "titel": "Sorge um Klinik, Notarzt und Anlaufpraxis: Volles Haus bei CDU-Talkrunde zur medizinischen Versorgung auf Fehmarn",
    "link": "https://www.fehmarn24.de/fehmarn/medizinische-versorgung-fehmarn-talkrunde-sorge-um-klinik-94599639.html",
@@ -413,13 +420,6 @@
    "link": "https://www.fehmarn24.de/fehmarn/fehmarnsundbruecke-mehr-zeit-und-geld-fuer-baustelle-94497050.html",
    "datum": "2026-09-17",
    "quelle": "fehmarn24",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Fehmarnsundbrücke: Bahn kündigt enorme Kostensteigerung an",
-   "link": "https://www.ndr.de/nachrichten/schleswig-holstein/fehmarnsundbruecke-bahn-kuendigt-enorme-kostensteigerung-an,fehmarnsund-106.html",
-   "datum": "2026-09-17",
-   "quelle": "NDR Schleswig-Holstein",
    "rubrik": "insel"
   }
  ]
