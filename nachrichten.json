@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-23",
+ "stand": "2026-11-24",
  "anzahl": 60,
  "eintraege": [
   {
@@ -7,6 +7,13 @@
    "link": "https://www.fehmarn24.de/fehmarn/historischer-fischkutter-aus-ard-serie-nord-bei-nordwest-ist-an-liegeplatz-im-orther-hafen-auf-fehmarn-gesunken-94604355.html",
    "datum": "2026-11-23",
    "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
+  {
+   "titel": "Dorfgeschichte aus Schlagsdorf auf Fehmarn",
+   "link": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/dorfgeschichte-aus-schlagsdorf-auf-fehmarn,shmag-15292.html",
+   "datum": "2026-11-23",
+   "quelle": "NDR Schleswig-Holstein",
    "rubrik": "insel"
   },
   {
@@ -414,13 +421,6 @@
    "datum": "2026-09-17",
    "quelle": "NDR Schleswig-Holstein",
    "rubrik": "tunnel"
-  },
-  {
-   "titel": "Mehr Zeit und Geld für die Fehmarnsundbrücke",
-   "link": "https://www.fehmarn24.de/fehmarn/fehmarnsundbruecke-mehr-zeit-und-geld-fuer-baustelle-94497050.html",
-   "datum": "2026-09-17",
-   "quelle": "fehmarn24",
-   "rubrik": "insel"
   }
  ]
 }
