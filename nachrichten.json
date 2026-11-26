@@ -1,7 +1,21 @@
 {
- "stand": "2026-11-25",
+ "stand": "2026-11-26",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Glühwein, Livemusik und Lichterzauber: Die Weihnachtsinsel in Burg öffnet ihre Buden",
+   "link": "https://www.fehmarn24.de/fehmarn/weihnachtsmarkt-auf-fehmarn-programm-auf-der-weihnachtsinsel-94609397.html",
+   "datum": "2026-11-26",
+   "quelle": "fehmarn24",
+   "rubrik": "insel"
+  },
+  {
+   "titel": "Pastorin Gangi-Juny bleibt in Großenbrode",
+   "link": "https://www.fehmarn24.de/ostholstein/pastorin-gangi-juny-bleibt-in-grossenbrode-94609618.html",
+   "datum": "2026-11-26",
+   "quelle": "fehmarn24",
+   "rubrik": "ostholstein"
+  },
   {
    "titel": "Schwarz auf weiß: Hinnerk Schönemann informiert sich in Orth über den Untergang seines Filmboots",
    "link": "https://www.fehmarn24.de/fehmarn/hinnerk-schoenemann-in-orth-selfie-vor-dem-gesunkenen-kutter-94607111.html",
@@ -407,20 +421,6 @@
    "datum": "2026-09-29",
    "quelle": "fehmarn24",
    "rubrik": "insel"
-  },
-  {
-   "titel": "Einer der erfolgreichsten deutschen Food Blogs ist „made in Ostholstein“",
-   "link": "https://www.fehmarn24.de/ostholstein/kochkarussell-aus-eutin-einer-der-erfolgreichsten-deutschen-food-blogs-ist-made-in-ostholstein-94516902.html",
-   "datum": "2026-09-29",
-   "quelle": "fehmarn24",
-   "rubrik": "ostholstein"
-  },
-  {
-   "titel": "A7 und Elbtunnel in Hamburg über das Wochenende voll gesperrt",
-   "link": "https://www.ndr.de/nachrichten/hamburg/a7-und-elbtunnel-in-hamburg-ueber-wochenende-voll-gesperrt,asieben-178.html",
-   "datum": "2026-09-26",
-   "quelle": "NDR Schleswig-Holstein",
-   "rubrik": "tunnel"
   }
  ]
 }
