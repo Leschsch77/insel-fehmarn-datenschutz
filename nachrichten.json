@@ -1,7 +1,14 @@
 {
- "stand": "2026-11-26",
+ "stand": "2026-11-27",
  "anzahl": 60,
  "eintraege": [
+  {
+   "titel": "Northvolt-Gelände bei Heide: Kommt am Ende nur ein Rechenzentrum?",
+   "link": "https://www.ndr.de/nachrichten/schleswig-holstein/dithmarschen_steinburg/northvolt-gelaende-kommt-schlussendlich-nur-ein-rechenzentrum,northvolt-258.html",
+   "datum": "2026-11-27",
+   "quelle": "NDR Schleswig-Holstein",
+   "rubrik": "insel"
+  },
   {
    "titel": "Glühwein, Livemusik und Lichterzauber: Die Weihnachtsinsel in Burg öffnet ihre Buden",
    "link": "https://www.fehmarn24.de/fehmarn/weihnachtsmarkt-auf-fehmarn-programm-auf-der-weihnachtsinsel-94609397.html",
@@ -413,13 +420,6 @@
    "link": "https://www.ndr.de/nachrichten/schleswig-holstein/luebeck_herzogtum-lauenburg_ostholstein/fehmarn-rathaus-mit-nazi-parolen-beschmiert,regionluebecknews-3128.html",
    "datum": "2026-09-30",
    "quelle": "NDR Schleswig-Holstein",
-   "rubrik": "insel"
-  },
-  {
-   "titel": "Neu gestaltete Flächen im Hafen Burgstaaken eingeweiht",
-   "link": "https://www.fehmarn24.de/fehmarn/neu-gestaltete-flaechen-im-hafen-burgstaaken-eingeweiht-94514962.html",
-   "datum": "2026-09-29",
-   "quelle": "fehmarn24",
    "rubrik": "insel"
   }
  ]
